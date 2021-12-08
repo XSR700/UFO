@@ -19,4 +19,4 @@ Notice that the search input must be in the same format as the placeholders. Typ
 
 While this page functions sucessfully and ready for Dana to use, there are still drawbacks and improvements that can be made. 
 
-The drawback of this design was mentioned earlier about the formats of the filters. The results only populate when the user inputs the exact format. for example, Alabama needs to be searched 
+The drawback of this design was mentioned earlier about the formats of the filters. The results only populate when the user inputs the exact format. for example, Alabama needs to be searched as its state shorthand "al" or United States needs to be "us". The script is even sensitive to capital letters and searches like "Ca" will not display results in the state of California. 

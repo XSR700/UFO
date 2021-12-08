@@ -16,3 +16,7 @@ Notice that the search input must be in the same format as the placeholders. Typ
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+While this page functions sucessfully and ready for Dana to use, there are still drawbacks and improvements that can be made. 
+
+The drawback of this design was mentioned earlier about the formats of the filters. The results only populate when the user inputs the exact format. for example, Alabama needs to be searched 

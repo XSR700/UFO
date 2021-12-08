@@ -11,6 +11,8 @@ The UFO Finder page can be accesed by openning the index.html file. The page dis
 
 ![al search](https://github.com/XSR700/UFO/blob/main/al%20search.PNG)
 
+Notice that the search input must be in the same format as the placeholders. Typing "Alabama" will not show results. 
+
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.

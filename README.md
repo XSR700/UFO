@@ -9,7 +9,7 @@ Dana is a data journilist who is tasked to write about the UFO sightings around 
 
 The UFO Finder page can be accesed by openning the index.html file. The page displays a title, description, and filtered data. The filter search criteria can be found at the bottom left side with placeholders inside the text boxes to give users examples what to search for. With no input from the user, the page will display all the data. Once the user types in any of the filter boxes, the data is auto-populated with results that satisfy the filters. The user can input multiple filters to display specific searches. Here is an example of search results of UFO sightings in alabama. 
 
-
+![al search](https://github.com/XSR700/UFO/blob/main/al%20search.PNG)
 
 
 

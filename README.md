@@ -19,4 +19,13 @@ Notice that the search input must be in the same format as the placeholders. Typ
 
 While this page functions sucessfully and ready for Dana to use, there are still drawbacks and improvements that can be made. 
 
-The drawback of this design was mentioned earlier about the formats of the filters. The results only populate when the user inputs the exact format. for example, Alabama needs to be searched as its state shorthand "al" or United States needs to be "us". The script is even sensitive to capital letters and searches like "Ca" will not display results in the state of California. 
+The drawback of this design was mentioned earlier about the formats of the filters. The results only populate when the user inputs the exact format. for example, Alabama needs to be searched as its state shorthand "al" or United States needs to be "us". The script is also sensitive to capital letters and searches like "Ca" will not display results in the state of California. 
+
+An improvement can be made to the html script. The filter button is not funtional when pressed. We can modify the event change in the js file to populate the results once clicked. This will make it more user friendly. 
+
+Another improvement can be made inside the data. There seems to be some sort of conversion error occuring inside the description. We can find strange characters like these:
+
+![improvement 2](https://github.com/XSR700/UFO/blob/main/improvement%202.PNG)
+
+The data text can be parsed and cleaned up. 
+
